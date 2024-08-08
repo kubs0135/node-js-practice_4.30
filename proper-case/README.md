@@ -5,4 +5,4 @@
 5. create index.js
 6. package doc read => use it
 
-// file bata baira vaye ./ folder bata baira vaye ../
+// file bata baira vaye cd ./ folder bata baira vaye cd ../
